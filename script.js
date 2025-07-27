@@ -5,7 +5,7 @@ const firebaseConfig = {
   projectId: "azadi-lucky-draw",
   storageBucket: "YOUR_STORAGE_BUCKET",
   messagingSenderId: "YOUR_SENDER_ID",
-  appId: "1:832763959998:android:3a13f508322c1e37909cef"
+  appId: "832763959998"
 };
 
 // Initialize Firebase
