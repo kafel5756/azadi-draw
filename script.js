@@ -1,11 +1,11 @@
 // Firebase config
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
+  apiKey: "AIzaSyABDV5bf-K0qdI8PLvHoCMeD1o1wcxJhps",
   authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
+  projectId: "azadi-lucky-draw",
   storageBucket: "YOUR_STORAGE_BUCKET",
   messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  appId: "1:832763959998:android:3a13f508322c1e37909cef"
 };
 
 // Initialize Firebase
