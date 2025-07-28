@@ -1,7 +1,7 @@
 // Firebase config
 const firebaseConfig = {
   apiKey: "AIzaSyABDV5bf-K0qdI8PLvHoCMeD1o1wcxJhps",
-  authDomain: "YOUR_AUTH_DOMAIN",
+  authDomain: "azadi-lucky-draw.firebaseapp.com",
   projectId: "azadi-lucky-draw",
   storageBucket: "YOUR_STORAGE_BUCKET",
   messagingSenderId: "YOUR_SENDER_ID",
